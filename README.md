@@ -2,14 +2,14 @@
 
 This repository contains the result of **"Towards Robust Transcription: Exploring Noise Injection Strategies for Training Data Augmentation"** which will be presented in ISMIR2024 Late-Breaking/Demo.
 
-## Exp.1: Impact of Noise on Pre-Trained Systems
+## Exp1: Impact of Noise on Pre-Trained Systems
 
 ### Code
 
 ### Result
 - Inference results of the Onsets and Frames model and the Kong et al. model, evaluated on the white noise-injected MAESTRO test split across varying SNR levels.
 
-## Exp.2: Effect of Noise Injection during Training
+## Exp2: Effect of Noise Injection during Training
 ### Code
 
 ### Result
