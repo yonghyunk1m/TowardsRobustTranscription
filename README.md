@@ -15,7 +15,7 @@ This repository contains the result of **"Towards Robust Transcription: Explorin
 ### Result
 - Inference results for the Onsets and Frames model across different CNR values, evaluated on the white
 noise-injected MAESTRO test split at varying SNR levels.
-- T-test results CNR=$\infty$ vs CNR={0, 1/3, 1, 3}
+- T-test results CNR=∞ vs CNR={0, 1/3, 1, 3}
 
 ## Contact
 - Yonghyun Kim (yonghyun.kim@gatech.edu)
