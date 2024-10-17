@@ -5,7 +5,7 @@
 
 ---
 
-## Code Descriptions
+## Code
 - **`plot_results.ipynb`**: Generates plots for the figures in the paper.  
 - **`significance_test.ipynb`**: Performs t-tests to assess the significance of model performance differences between clean data (CNR=∞) and perturbed datasets (CNR={0, 1/3, 1, 3}).
 
