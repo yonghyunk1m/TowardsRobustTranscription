@@ -1,7 +1,7 @@
 # Towards Robust Transcription
 
 Supplementary materials for ISMIR 2024 LBD:
-> Y. Kim and A. Lerch, "Towards Robust Transcription: Exploring Noise Injection Strategies for Training Data Augmentation," accepted to the Late-Breaking Demo Session of the 25th International Society for Music Information Retrieval Conference (ISMIR), San Francisco, 2024. [arXiv]
+> Y. Kim and A. Lerch, "Towards Robust Transcription: Exploring Noise Injection Strategies for Training Data Augmentation," accepted to the Late-Breaking Demo Session of the 25th International Society for Music Information Retrieval Conference (ISMIR), San Francisco, CA, United States, 2024. [arXiv]
 
 ## Codes
 - **plot_results.ipynb**
