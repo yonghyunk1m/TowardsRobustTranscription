@@ -1,17 +1,24 @@
 # Towards Robust Transcription
 
-Supplementary materials for ISMIR 2024 LBD:
-> Y. Kim and A. Lerch, "Towards Robust Transcription: Exploring Noise Injection Strategies for Training Data Augmentation," accepted to the Late-Breaking Demo Session of the 25th International Society for Music Information Retrieval Conference (ISMIR), San Francisco, United States, 2024. [arXiv]
+### Supplementary Materials for ISMIR 2024 LBD
+> **Y. Kim and A. Lerch**, "Towards Robust Transcription: Exploring Noise Injection Strategies for Training Data Augmentation," accepted for presentation at the Late-Breaking Demo Session of the 25th International Society for Music Information Retrieval Conference (ISMIR), San Francisco, USA, 2024. [arXiv]
 
-## Codes
-- **plot_results.ipynb**
-- **significance_test.ipynb**
+---
+
+## Code Descriptions
+- **`plot_results.ipynb`**: Generates plots for the figures in the paper.  
+- **`significance_test.ipynb`**: Performs t-tests to assess the significance of model performance differences between clean data (CNR=∞) and perturbed datasets (CNR={0, 1/3, 1, 3}).
+
+---
 
 ## Results
-- **inference_results.tex**: Inference results for the Onsets and Frames model across different CNR values, evaluated on the white noise-injected MAESTRO test split at varying SNR levels.
-- **inference_results.pdf**: PDF-Rendered version of inference_results.tex
-- **significance_test_results.tex**: T-test results CNR=∞ vs CNR={0, 1/3, 1, 3}
-- **significance_test_results.pdf**: PDF-Rendered version of significancee_test_results.tex
+- **`inference_results.tex`**: LaTeX file containing inference results for Figure 1 and Figure 2 in the paper.  
+- **`inference_results.pdf`**: PDF-rendered version of `inference_results.tex`.  
+- **`significance_test_results.tex`**: LaTeX file presenting t-test results comparing clean (CNR=∞) and perturbed datasets (CNR={0, 1/3, 1, 3}).  
+- **`significance_test_results.pdf`**: PDF-rendered version of `significance_test_results.tex`.
+
+---
 
 ## Contact
-- Yonghyun Kim (yonghyun.kim@gatech.edu)
+- **Yonghyun Kim**  
+  *Email*: [yonghyun.kim@gatech.edu](mailto:yonghyun.kim@gatech.edu)
