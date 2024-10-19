@@ -12,8 +12,8 @@
 ---
 
 ## Results  
-- **`inference_results.md`**: A Markdown file containing the inference results for Figure 1 and Figure 2 from the paper.  
-- **`inference_results.tex`**: A LaTeX file presenting the inference results for Figure 1 and Figure 2 from the paper.  
+- **`inference_results.md`**: A Markdown file containing the inference results for Figures 1 and  2 from the paper.  
+- **`inference_results.tex`**: A LaTeX file presenting the inference results for Figures 1 and  2 from the paper.  
 - **`inference_results.pdf`**: A PDF-rendered version of `inference_results.tex`.  
 - **`significance_test_results.md`**: A Markdown file presenting t-test results comparing clean (CNR = ∞) and perturbed datasets (CNR = {0, 1/3, 1, 3}).  
 - **`significance_test_results.tex`**: A LaTeX file presenting t-test results comparing clean (CNR = ∞) and perturbed datasets (CNR = {0, 1/3, 1, 3}).  
