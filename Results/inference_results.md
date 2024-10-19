@@ -30,7 +30,7 @@
 
 ---
 
-## Table 4: Inference Result of Onsets and Frames (Train: MAESTRO CNR = 3, Test: MAESTRO w/ White Noise at Various SNRs)
+## Table 4: Onsets and Frames (Train: MAESTRO CNR = 3, Test: MAESTRO w/ White Noise at Various SNRs)
 
 | Metric      | -6 dB       | -3 dB       | 0 dB        | 3 dB        | 6 dB        | 9 dB        | 12 dB       | 15 dB       | 18 dB       | 21 dB       | 24 dB       | 27 dB       | 30 dB       | 33 dB       | 36 dB       | 39 dB       | 42 dB       | 45 dB       | Clean       |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
@@ -40,7 +40,7 @@
 
 ---
 
-## Table 5: Inference Result of Onsets and Frames (Train: MAESTRO CNR = 1/3, Test: MAESTRO w/ White Noise at Various SNRs)
+## Table 5: Onsets and Frames (Train: MAESTRO CNR = 1/3, Test: MAESTRO w/ White Noise at Various SNRs)
 
 | Metric      | -6 dB       | -3 dB       | 0 dB        | 3 dB        | 6 dB        | 9 dB        | 12 dB       | 15 dB       | 18 dB       | 21 dB       | 24 dB       | 27 dB       | 30 dB       | 33 dB       | 36 dB       | 39 dB       | 42 dB       | 45 dB       | Clean       |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
@@ -50,7 +50,7 @@
 
 ---
 
-## Table 6: Inference Result of Onsets and Frames (Train: MAESTRO CNR = 0, Test: MAESTRO w/ White Noise at Various SNRs)
+## Table 6: Onsets and Frames (Train: MAESTRO CNR = 0, Test: MAESTRO w/ White Noise at Various SNRs)
 
 | Metric      | -6 dB       | -3 dB       | 0 dB        | 3 dB        | 6 dB        | 9 dB        | 12 dB       | 15 dB       | 18 dB       | 21 dB       | 24 dB       | 27 dB       | 30 dB       | 33 dB       | 36 dB       | 39 dB       | 42 dB       | 45 dB       | Clean       |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
